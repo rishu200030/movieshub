@@ -1,0 +1,43 @@
+body{
+			
+          background-image: url(backgroundimg.jpeg);
+          background-repeat: no-repeat;
+          background-image: cover;
+          background-size: auto;
+          background-attachment: fixed;
+          background-position: center; 
+          background-size: 100% 100%;
+            
+          font-family: 'Architects Daughter', cursive;
+            
+
+		}
+		.input{
+			 width: 70%;
+             padding: 12px 20px;
+             margin: 8px 0;
+             display: inline-block;
+             border: 1px solid #ccc;
+             border-radius: 4px;
+             box-sizing: border-box;
+		}
+		.button{
+      width: 100px;
+            background-color: #7FFFD4;
+            color: black;
+            padding: 14px 20px;
+            margin: 8px 0;
+            margin-right: 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+      }
+      .button:hover{
+        background-color:#00FFFF;
+
+      }
+        .log:hover{
+            color: blue;
+        }
+
+
